@@ -1,8 +1,6 @@
 <div align="center">
-  <h1>Nature Skills</h1>
-  <h3>Reusable research skills for AI scholars worldwide</h3>
   <p>
-    Literature Search · Paper Reading · Nature Writing · Reviewer Simulation · Figures · Citation Audit · Revision Response
+    <img src="assets/readme-banner-en.png" alt="Nature Skills: Reusable Research Skills for AI Scholars" width="100%">
   </p>
   <p>
     <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-Apache--2.0-2ea44f"></a>

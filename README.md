@@ -1,8 +1,6 @@
 <div align="center">
-  <h1>Nature Skills</h1>
-  <h3>面向全球学者的科研 Skill 库</h3>
   <p>
-    文献检索 · 论文精读 · Nature 写作 · 审稿模拟 · 图表制作 · 引用审计 · 返修回复
+    <img src="assets/readme-banner-cn.png" alt="Nature Skills：面向全球学者的科研 Skill 库" width="100%">
   </p>
   <p>
     <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-Apache--2.0-2ea44f"></a>
