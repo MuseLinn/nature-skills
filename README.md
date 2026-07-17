@@ -45,9 +45,9 @@
     <td align="center" width="32%">
       <img src="assets/nature-ai-wechat.jpg" alt="Nature AI 客服 WeChat 二维码" width="280">
       <br>
-      <strong>客服 WeChat</strong>
+      <strong>客服&nbsp;WeChat</strong>
       <br>
-      <sub>扫描二维码添加客服</sub>
+      <sub>扫码添加客服</sub>
     </td>
   </tr>
 </table>
