@@ -26,6 +26,9 @@
 ## Table of Contents
 
 - [1. Project Founder and Operations](#1-project-founder-and-operations)
+  - [1.1 Founder Introduction](#11-founder-introduction)
+  - [1.2 Knowledge Planet](#12-knowledge-planet)
+  - [1.3 Repository Store](#13-repository-store)
 - [2. Nature Skills Core Developers](#2-nature-skills-core-developers)
 - [3. Project Philosophy and Community](#3-project-philosophy-and-community)
 - [4. Quick Start](#4-quick-start)
